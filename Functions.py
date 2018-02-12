@@ -69,4 +69,6 @@ def main():
         num9()
     elif a==10:
         num10()
+    else:
+        print('Please Enter a number')
 if __name__ == '__main__':main()
